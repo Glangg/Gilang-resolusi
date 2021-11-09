@@ -1,2 +1,2 @@
 # Gilang-resolusi
-Repository untuk menyimpan renacana gilang kedepannya
+Repository untuk menyimpan rencana gilang kedepannya
